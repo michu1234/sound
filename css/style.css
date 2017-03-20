@@ -1,8 +1,12 @@
 body {
 	font-family: 'Roboto', sans-serif;
+   overflow-x: hidden;
 }
 
 /**************HEADER************/
+.navbar {
+   background-color: #333;
+}
 .navbar-default {
 /*	border-color: #e7e7e7;*/
 	border: none;

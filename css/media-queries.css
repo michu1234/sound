@@ -1,9 +1,5 @@
-@media only screen and (max-width:1176px) {
-
-}
-@media only screen and (max-width:955px) {
-
-}
-@media only screen and (max-width:656px) {
-
+@media screen and (max-width: 320) {
+   .navbar-header  .navbar-brand {
+      font-size: 10px;
+   }
 }
